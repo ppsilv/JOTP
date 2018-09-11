@@ -1,3 +1,5 @@
+I'll give a try using it in android...
+
 # JOTP
 
 This module is part of a chain of OTP libraries all written in different languages. See https://github.com/OTPLibraries
